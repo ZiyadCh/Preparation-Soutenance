@@ -1,0 +1,16 @@
+DDL(Data Definition Language):"Tables"
+create: cree un tableau
+
+alter: modifier un column du tableau
+
+drop: supprimer tableau
+
+truncate: supprimer tout les column de la table !(PLus rapide que Delete from,sans rollback).
+
+rename: rennomer une table
+
+PRIMARY KEY:
+definir la column principale d'une table qui sera etre referensé par les autre table
+
+WHERE:
+where accepte le nom d'une column et sa valeur puis retourne les lignes correspandante
