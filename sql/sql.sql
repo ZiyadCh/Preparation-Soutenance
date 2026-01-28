@@ -13,3 +13,11 @@ UPDATE Produits
   DELETE FROM Produits
     WHERE stock = 0;
 
+--------------------------------------------
+--------------------------------------------
+select count(*) from commandes;
+
+select avg( prix)from Produits;
+
+select max(prix)from Produits;
+

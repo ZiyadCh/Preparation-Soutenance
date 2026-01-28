@@ -1,0 +1,13 @@
+Count: retourne le nombre de colonnes
+SUM: la somme des valeurs
+AVG: la moyenne des valeurs
+---------------------------------------
+--Peut-on utiliser COUNT(*) et COUNT(colonne) de manière interchangeable ?
+Pourquoi ?
+
+OUI, pour donner le nombre de colonnes avec (colonne)
+----------------------------------------------
+Comment MAX et MIN peuvent-ils être utilisés sur des dates ou des chaînes de
+caractères ?
+
+la date plus  nouvau, order alphabetiques
