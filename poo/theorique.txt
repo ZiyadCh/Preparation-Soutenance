@@ -1,0 +1,7 @@
+--Classe vs Objet:
+Une Classe est une structure qui defini les proprietes et methodes d'un objet 
+Un objet est une instance cree a partir de cette classe
+--$this:
+le mot cle $this fait reference a l'instance courante de la classe / de l'objet
+-- __construct()
+une methode magique appele automatiquement lors de l'instanciation
