@@ -5,3 +5,11 @@ Un objet est une instance cree a partir de cette classe
 le mot cle $this fait reference a l'instance courante de la classe / de l'objet
 -- __construct()
 une methode magique appele automatiquement lors de l'instanciation
+
+L'encapsulation:
+rendre les attirbut et methodes $private ou $protected pour eviter des changement non desiré
+public: tout les elements dehors de la class peut l'acceder
+protected: seulment les sous classe on acces
+privee: rien dehors la classe peut l'acceder
+getters & setters:
+ils servent a manipuler les attributs sans interferance d'autre elements

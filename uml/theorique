@@ -1,0 +1,17 @@
+1.
+Agregation:
+depandance faible entre 2 classes
+si le parent est disparut l'enfant reste
+exp: ecole avec etudiants
+les etudiants sont part de l'ecole mais si il n'y a pas d'ecole les etudiants existe
+
+Composition:
+depandance forte entre 2 classes
+si le parent est disparut l'enfant est effacé
+exp: maison avec murs
+les murs sont part de l'ecole,  si il n'y a pas de maison il n'aurat pas de murs.
+2.
+1..* : one to many
+3.
+une class assosiative est une classe qui represente une relation entre 2 classes avec des attributs communs
+utilise qu'on on a une relations many to many
