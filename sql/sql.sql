@@ -21,3 +21,6 @@ select avg( prix)from Produits;
 
 select max(prix)from Produits;
 
+select nom,commandes.* from clients inner join commandes on commandes.client_id = clients.id;
+select nom,count(prix) from clients left join commandes on commandes.client_id = clients.id;
+

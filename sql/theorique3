@@ -1,0 +1,10 @@
+inner join:
+retourne seulement les lignes qui existe dans les deux tables
+
+left join:
+retourne les lignes de la table gauche et les lignes avec aucaun correspandance ayant null
+
+right join:
+quant en veut tout les donnes correspantante a la premiere table (a la main)
+Peut-on joindre plus de deux tables dans une seule requête ?:
+oui.
