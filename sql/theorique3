@@ -7,4 +7,12 @@ retourne les lignes de la table gauche et les lignes avec aucaun correspandance 
 right join:
 quant en veut tout les donnes correspantante a la premiere table (a la main)
 Peut-on joindre plus de deux tables dans une seule requête ?:
+
 oui.
+---
+where = condition
+having = condition apres agregation
+--- 
+from > where > group by > having > select > order by
+--- 
+oui

@@ -1,0 +1,3 @@
+1-Une classe abstracte ne peut pat etre instancier et sert just a etre herité
+2-Non,car l'abstraction est une constrainte
+3-Nom, la mthode doit etre public ou protected pour qu elle soit herité
