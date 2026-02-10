@@ -1,0 +1,8 @@
+1-
+Utilise une jointure quand tu veux relier des tables et afficher leurs données.
+Utilise une sous-requête quand tu veux tester une condition, filtrer ou calculer une valeur sans dupliquer les lignes.
+
+2-Pour donner un label a des column specifié
+Ex: Afficher les produits avec un prix plus grand que 100 comme "Expensive" et le quelle ont moin comme "cheap"
+
+3- Une sous-requête Corelle est une sous-requête depandante sur la requete original
